@@ -1,4 +1,4 @@
-## Hi, I'm Aviral 👋
+## Hi, I'm Mradul Sharma 👋
 🎓 B.Tech Student at VIT Bhopal
 📚 Branch: Cse Core
 📅 Year: 1st Year ( Graduation: 2029)
