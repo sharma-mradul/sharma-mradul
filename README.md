@@ -1,6 +1,13 @@
-## Hi, I'm Mradul Sharma 👋
-🎓 B.Tech Student at VIT Bhopal
-📚 Branch: Cse Core
-📅 Year: 1st Year ( Graduation: 2029)
+# Hi, I'm Mradul Sharma
 
-💡 I hope to learn programming, web development, and problem solving to become a skilled software developer.
+I’m currently learning and building in public with a focus on frontend development, problem solving, and open source.
+
+Right now I’m working on:
+- React and modern JavaScript
+- Data Structures & Algorithms
+- Open source contributions
+- Small projects to improve development skills
+
+Interested in developer tools, AI, and real-world software engineering.
+
+Trying to get a little better every day.
