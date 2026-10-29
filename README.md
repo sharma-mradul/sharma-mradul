@@ -120,7 +120,7 @@ Guarantees exactly-once execution for distributed API calls.
 I'm open to **startup internship opportunities** where the work is real and the learning curve is steep.
 
 [![Gmail](https://img.shields.io/badge/mradulfpu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mradulfpu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mradul-sharma)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mradul-sharma-a0ab33372/)
 
 ---
 
