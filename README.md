@@ -18,7 +18,7 @@
 - 🎓 **VIT** — B.Tech CSE '29 &nbsp;&nbsp; 
 - 🔧 Building production-grade backend systems in **Java** and **Node.js**
 - ⚙️ Currently building a **Distributed Idempotency Engine** (Spring Boot + Redis)
-- 🌱 Contributing to **Jenkins** — targeting **GSoC 2027**
+- 🌱 Contributing to **Jenkins**
 - 🎯 Goal: Backend Engineer at a product company that ships real things
 
 ---
@@ -108,8 +108,8 @@ Guarantees exactly-once execution for distributed API calls.
 
 ## 🌱 Open Source
 
-**Target:** Jenkins (GSoC 2027)
-**Status:** Active contributor — starting with plugin contributions, building toward a GSoC proposal
+**Target:** Jenkins 
+**Status:** Active contributor — starting with plugin contributions
 
 [![Jenkins](https://img.shields.io/badge/Jenkins_Contributor-D33833?style=flat-square&logo=jenkins&logoColor=white)](https://community.jenkins.io)
 
